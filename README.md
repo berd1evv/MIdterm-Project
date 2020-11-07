@@ -1,1 +1,1 @@
-# MIdterm-Project
+# Midterm-Project

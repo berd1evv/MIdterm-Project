@@ -1,7 +1,7 @@
 # Midterm-Project
 # CurrencyBot
 <h1>1. Start</h1>
-<p>Firstly to find the bot you can search by bot username @moneyconventer. Then, after opening the bot, you will see this screen</p>
+<p>Firstly to find the bot you can search by bot username @moneyconventerbot or with this link https://t.me/moneyconventerbot. Then, after opening the bot, you will see this screen</p>
 <img src="https://github.com/berd1evv/MIdterm-Project/blob/master/photo_2020-11-07_15-29-28.jpg?raw=true" width=300 height=500>
 <h1>2. Exchange rates</h1>
 <p>Here you can see exchange rates</p>
